@@ -1,7 +1,12 @@
 # Any-Image-Classifier
 
-### basic image classifier & machine learning practice with python.
-### I make it a classifier for "pigs" & "dogs" pictures
+## Desciption
+basic image classifier & machine learning practice with python.
 
-### complete under the help of Lana Chen, special thanks for her instruction
-### https://github.com/k66inthesky
+I make it a classifier for "pigs" & "dogs" pictures.
+
+## Thanks to
+[@k66inthesky](https://github.com/k66inthesky)
+
+
+
